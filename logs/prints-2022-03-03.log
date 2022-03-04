@@ -1,0 +1,7 @@
+12:40:20.678 [TestNG-tests-1] INFO  Amaze.LoginPage - User name is correct
+12:40:20.808 [TestNG-tests-1] ERROR Amaze.LoginPage - do we have wrong password
+12:43:25.834 [TestNG-tests-1] INFO  Amaze.LoginPage - initialized the driver 1
+12:43:34.330 [TestNG-tests-1] INFO  Amaze.LoginPage - User name is correct
+12:43:34.462 [TestNG-tests-1] ERROR Amaze.LoginPage - do we have wrong password
+12:43:40.729 [TestNG-tests-1] INFO  Amaze.LoginPage - initialized the driver 1
+12:43:48.984 [TestNG-tests-1] INFO  Amaze.LoginPage - User name is correct
